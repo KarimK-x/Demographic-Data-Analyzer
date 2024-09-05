@@ -1,9 +1,10 @@
 # Project outline
 ### Navigating through the files
-**It's fairly simple there are only three files:**
-- test.py : *A file for testing the program, run test.py first to see what the program does before checking out source code*\
-- main.py : *My main source code containing all the functions as well as their implementations*\
-- DemoJupyter.ipynb : *Interactive jupyter notebook to properly display all the answers to the questions as well as plots using matplotlib.pyplot*\
+**It's fairly simple there are only four files:**
+- test.py : *A file for testing the program, run test.py first to see what the program does before checking out source code*
+- main.py : *My main source code containing all the functions as well as their implementations*
+- DemoJupyter.ipynb : *Interactive jupyter notebook to properly display all the answers to the questions as well as plots using matplotlib.pyplot*
+- Graphs Folder: *contains all plots in the file if you can't run them through the code*
 
 ## Project Details
 ### Inspired by freecodecamp certification project
