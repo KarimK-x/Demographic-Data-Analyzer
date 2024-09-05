@@ -9,8 +9,8 @@ calculate_demographic_data()
 which graphs you'd like to run
 '''
 run_race_count = True
-run_men_age = False
-run_bach_pie = False
+run_men_age = True
+run_bach_pie = True
 run_salaries_50k = True
 
 if run_race_count:
